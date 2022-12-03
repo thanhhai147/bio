@@ -10,9 +10,24 @@
   <img src="https://img.shields.io/badge/Linkedin-blue?logo=Linkedin&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Gmail-red?logo=Gmail&logoColor=white&style=for-the-badge" />
 </div>
-<div id="banner">
 
-</div>
-<div id="content">
+---
+### :man_technologist: About me :
+- :man_student: asdaksdjalksdjalkdsjakld
+- :telescope: asdadadadasdasd
+- :book: asdasdajsdlkajsdlkas
 
+---
+
+### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" width="40" />
 </div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thanhhai147&theme=tokyonight_duo&border_radius=10)](https://git.io/streak-stats)
+</br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhai147&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
